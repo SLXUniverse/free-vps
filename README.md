@@ -29,3 +29,6 @@ Free VPS was released in 1 August 2023
 <summary><b>How many Free VPS have nodes?</summary>
 2 nodes
 </details>
+<summary><b>How can i give donate to Free VPS?</summary>
+See https://freevps.susgalaxy.online/donate.html
+</details>
