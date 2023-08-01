@@ -19,3 +19,9 @@ https://freevps.susgalaxy.online/
 | Internet          | :white_check_mark:                    | :white_check_mark:                   |
 | Remote            | :white_check_mark:                    | :white_check_mark:                   |
 | SSH               | :x:                                   | :white_check_mark:                   |
+
+### Questions
+<details>
+<summary><b>When Free VPS was started in?</summary>
+Free VPS was started in 1 August 2023
+</details>
