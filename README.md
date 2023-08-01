@@ -4,5 +4,18 @@ Free VPS is a everyone for free to use VPS for 10 minutes. Try it for testing vp
 https://freevps.susgalaxy.online/
 
 ### Nodes Available
-- Node1
-- Node2
+- Node 1
+- Node 2 (Coming Soon)
+
+### CyberNades vs Free VPS
+|                   | CyberNades                            | Free VPS                             |
+| ----------------- | ------------------------------------- | ------------------------------------ |
+| Nodes             | -                                     | 2                                    |
+| Terminal Support  | :white_check_mark: (CMD only)         | :white_check_mark: (Browser Only)    |
+| Desktoop Support  | :white_check_mark: (VNC only)         | :x:                                  |
+| Users Limit       | Up to 1 user per discord account      | Infinity users                       |
+| Price             | Paid (plans and premium)              | Free                                 |
+| Operating System  | Windows only                          | Linux only                           |
+| Internet          | :white_check_mark:                    | :white_check_mark:                   |
+| Remote            | :white_check_mark:                    | :white_check_mark:                   |
+| SSH               | :x:                                   | :white_check_mark:                   |
