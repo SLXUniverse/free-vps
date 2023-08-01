@@ -41,6 +41,25 @@
     .btn:hover {
       background-color: #0056b3;
     }
+
+    .back-btn {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 18px;
+      text-align: center;
+      background-color: #007BFF;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+      margin-top: 20px;
+    }
+
+    .back-btn:hover {
+      background-color: #0056b3;
+    }
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
@@ -48,5 +67,12 @@
   <h1>Choose this node to Free VPS</h1>
   <a href="node1.html" class="btn">Node 1</a>
   <a href="node2.html" class="btn">Node 2 (Coming Soon)</a>
+  <button onclick="goBack()" class="back-btn">Back</button>
+
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
 </body>
 </html>
