@@ -25,3 +25,7 @@ https://freevps.susgalaxy.online/
 <summary><b>When Free VPS was started in?</summary>
 Free VPS was started in 1 August 2023
 </details>
+<details>
+<summary><b>How many Free VPS have nodes?</summary>
+2 nodes
+</details>
