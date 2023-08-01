@@ -48,6 +48,7 @@
   <label for="agreementCheckbox">I agree to the rules</label>
   <br>
   <button onclick="showVps()" class="btn">View VPS</button>
+  <button onclick="goBack()" class="back-btn">Back</button>
 
   <script>
     function showVps() {
@@ -65,6 +66,9 @@
         alert("Please agree to the rules to access the VPS.");
       }
     }
+
+    function goBack() {
+      window.history.back();
   </script>
 </body>
 </html>
