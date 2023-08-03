@@ -7,6 +7,11 @@ https://freevps.susgalaxy.online/
 - Node 1
 - Node 2 (Coming Soon)
 
+### Free VPS's Stats
+- **43** Views
+- **2** Nodes
+- **$0** Donate
+
 ### CyberNades vs Free VPS
 |                   | CyberNades                            | Free VPS                             |
 | ----------------- | ------------------------------------- | ------------------------------------ |
