@@ -1,7 +1,8 @@
 # Free VPS
 Free VPS is a everyone for free to use VPS.
-### Try it
-https://freevps.susgalaxy.online/
+### Try it (Another website are made in Free VPS)
+- [Free VPS (Main)](https://freevps.susgalaxy.online/)
+- [szpitalpodlasie's Free VPS](https://freevps.szpitalpodlasie.pl/)
 
 ### Nodes Available
 - Node 1
