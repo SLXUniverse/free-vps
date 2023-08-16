@@ -12,18 +12,11 @@ https://freevps.susgalaxy.online/
 - **2** Nodes
 - **$0** Donate
 
-### CyberNades vs Free VPS
-|                   | CyberNades                            | Free VPS                             |
-| ----------------- | ------------------------------------- | ------------------------------------ |
-| Nodes             | -                                     | 2                                    |
-| Terminal Support  | :white_check_mark: (CMD only)         | :white_check_mark: (Browser Only)    |
-| Desktoop Support  | :white_check_mark: (VNC only)         | :x:                                  |
-| Users Limit       | Up to 1 user per discord account      | Infinity users                       |
-| Price             | Paid (plans and premium)              | Free                                 |
-| Operating System  | Windows only                          | Linux only                           |
-| Internet          | :white_check_mark:                    | :white_check_mark:                   |
-| Remote            | :white_check_mark:                    | :white_check_mark:                   |
-| SSH               | :x:                                   | :white_check_mark:                   |
+### Free VPS Premium ($0.99/month via crypto)
+- Access sudo/root
+- Connect via SSH (supports mobile)
+- Create with up to unlimited user
+- Premium Role (Discord)
 
 ### Questions
 <details>
