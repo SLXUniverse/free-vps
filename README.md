@@ -5,18 +5,7 @@ https://freevps.susgalaxy.online/
 
 ### Nodes Available
 - Node 1
-- Node 2 (Coming Soon)
-
-### Free VPS's Stats
-- **43** Views
-- **2** Nodes
-- **$0** Donate
-
-### Free VPS Premium ($0.99/month via crypto)
-- Access sudo/root
-- Connect via SSH (supports mobile)
-- Create with up to unlimited user
-- Premium Role (Discord)
+- Node 2 (Soon add in next 20 August)
 
 ### Questions
 <details>
