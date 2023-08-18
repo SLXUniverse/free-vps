@@ -6,7 +6,7 @@ Free VPS is a everyone for free to use VPS.
 
 ### Nodes Available
 - Node 1
-- Node 2 (Soon add in next 20 August)
+- Node 2
 
 ### Questions
 <details>
