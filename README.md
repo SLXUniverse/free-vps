@@ -24,4 +24,5 @@ See https://freevps.susgalaxy.online/donate.html
 
 ### Credits
 - applerobloxgames (Founder of Free VPS)
+- xxmichal (Founder of Free VPS)
 - urbanbullet (Co Founder of Free VPS)
