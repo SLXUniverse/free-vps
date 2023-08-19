@@ -27,6 +27,12 @@
       margin-bottom: 30px;
     }
 
+    .btn-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
     .btn {
       display: inline-block;
       padding: 10px 20px;
@@ -69,8 +75,10 @@
 </head>
 <body>
   <h1>Choose this node to Free VPS</h1>
-  <a href="node1.html" class="btn">Node 1</a>
-  <a href="node2.html" class="btn">Node 2</a>
+  <div class="btn-container">
+    <<a href="node1.html" class="btn">Node 1</a>
+    <a href="node2.html" class="btn">Node 2</a>
+  </div>
   <button onclick="goBack()" class="back-btn">Back</button>
 
   <script>
