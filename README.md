@@ -2,7 +2,7 @@
 Free VPS is a everyone for free to use VPS.
 ### Try it (Another website are made in Free VPS)
 - [Free VPS (Main)](https://freevps.susgalaxy.online/)
-- [szpitalpodlasie's Free VPS](https://freevps.szpitalpodlasie.pl/)
+- [szpitalpodlasie's Free VPS](https://freevps.szpitalpodlasie.pl/) (End of website)
 
 ### Nodes Available
 - Node 1
@@ -24,5 +24,5 @@ See https://freevps.susgalaxy.online/donate.html
 
 ### Credits
 - applerobloxgames (Founder of Free VPS)
-- xxmichal (Founder of Free VPS)
+- ~~xxmichal (Founder of Free VPS)~~
 - urbanbullet (Co Founder of Free VPS)
