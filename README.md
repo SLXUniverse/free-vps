@@ -19,9 +19,9 @@ Free VPS was released in 1 August 2023
   
 <details>
 <summary><b>How can I give donate to Free VPS?</summary>
-Coming Soon
+[Our donate addresses (Click me)](https://freevps.susgalaxy.xyz/donate.html)
 </details>
 
 ### Credits
 - applerobloxgames (Founder of Free VPS)
-- xxmichal (Founder of Free VPS)
+- xxmichal (Founder of Free VPS, VPS Sponsor)
