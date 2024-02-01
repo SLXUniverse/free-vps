@@ -19,7 +19,7 @@ Free VPS was released in 1 August 2023
   
 <details>
 <summary><b>How can I give donate to Free VPS?</summary>
-- https://freevps.susgalaxy.xyz/donate.html
+https://freevps.susgalaxy.xyz/donate.html
 Help us get money to pay the VPS (3.50$/Month)
 </details>
 
